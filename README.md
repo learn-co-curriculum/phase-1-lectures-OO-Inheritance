@@ -1,4 +1,4 @@
-# Client-Server Communication
+# Object-Orientation: Inheritance 
 
 ## Objectives
 
